@@ -26,7 +26,7 @@ The program features:
 - Score tracking for both human and computer players.
 
 **Output of the program**
-![Graphical Output of the Program](/output.png)
+![Graphical Output of the Program](/projectfiles/output.png)
 
 ## Installation
 
