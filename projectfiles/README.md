@@ -34,7 +34,7 @@ To run this program, you'll need to have Python installed on your system. The pr
 
 1. **Clone the Repository**: 
 
-[Click Here](https://github.com/yourusername/rock-paper-scissors.git)
+[Click Here](https://github.com/fauzanamaan/project.py)
 
 2. **Run the Program**:
 
